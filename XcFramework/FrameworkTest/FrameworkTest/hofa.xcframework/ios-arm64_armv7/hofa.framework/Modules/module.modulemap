@@ -1,0 +1,6 @@
+framework module hofa {
+  umbrella header "hofa.h"
+
+  export *
+  module * { export * }
+}
